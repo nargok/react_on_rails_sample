@@ -1,5 +1,5 @@
 class CountersController < ApplicationController
-  layout "counter"
+  layout "aplication_with_react"
 
   def index
   end
